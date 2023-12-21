@@ -2,7 +2,7 @@
 
 ## Description
 
-This application captures data related to heart rates from users using a heart rate sensor and a NodeMCU board. Additionally, alert signals will be emitted through the use of LEDs when the beats fall below the minimum limit of 50bpm and exceed the maximum of 100bpm, indicating bradycardia and tachycardia, respectively. For the development of this project, I utilize internet communication (TCP/IP) and the MQTT protocol through the AdafruitIO library.
+This application captures data related to heart rates from users using a heart rate sensor and a NodeMCU board. Additionally, alert signals will be emitted through the use of LEDs when the beats fall below the minimum limit of 50bpm and exceed the maximum of 100bpm, indicating bradycardia and tachycardia, respectively. For the development of this project, I employ internet communication (TCP/IP) and the MQTT protocol through the AdafruitIO library.
 
 ## First step
 
